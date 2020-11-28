@@ -1,0 +1,4 @@
+安装DLP时一定要记住设备名称
+
+同步阿里ntp时间同步服务器命令
+ntpdate ntp.aliyun.com
